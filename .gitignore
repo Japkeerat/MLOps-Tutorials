@@ -1,4 +1,5 @@
 # IDE Files
+.DS_Store
 .idea
 
 # Pickle Files
